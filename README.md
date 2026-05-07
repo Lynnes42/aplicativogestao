@@ -43,8 +43,6 @@ Tecnologias Utilizadas
 
 Estrutura do Projeto(Activity)
 
-To run this project, you will need to add the following environment variables to your .env file
-
 MainActivity: Atua como o centro de comando. Exibe o contador de chamados abertos e direciona para as outras funções;
 
 CadastroActivity: Formulário de entrada para novos incidentes, capturando automaticamente a data atual;
