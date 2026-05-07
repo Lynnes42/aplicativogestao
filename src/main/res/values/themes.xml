@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Projeto1" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Cor principal dos botões e componentes. -->
+       <item name="colorPrimary">#000000</item>
+        <!-- Cor quando o botão está selecionado (cinza escuro). -->
+        <item name="colorControlHighlight">#333333</item>
+        <!-- Cor do texto dos botões. -->
+        <item name="android:textColorPrimary">#333333</item>
+    </style>
+
+    <style name="Theme.Projeto1" parent="Base.Theme.Projeto1" />
+</resources>
